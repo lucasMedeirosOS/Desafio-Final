@@ -1,6 +1,8 @@
 # 🌟 Seja Bem-Vindo ao Perfil de Lucas Medeiros! 🌟
 
-Este projeto README.MD foi proposto pela [Digital Innovation One](https://web.dio.me/home). Aqui, compartilho um pouco sobre mim e minhas habilidades interpessoais (Soft Skills) que já possuo e quais habilidades técnicas (Hard Skills) pretendo adquirir.
+Este projeto de Logica de Programação foi proposto pela [Digital Innovation One](https://web.dio.me/home). Onde deveria ser aplicada uma calculadora com base na jornada do heroi, o desafio foi aprimorado solicitando a interação do usuário para que a calculadora de pontos de experiência pudesse funcionar assim como as mensagenns interativas de acordo com o caminho seguido pelo usuaário.
+
+Aqui a baixo, compartilho um pouco sobre mim e minhas habilidades interpessoais (Soft Skills) que já possuo e quais habilidades técnicas (Hard Skills) pretendo adquirir.
 
 ## 🚀 Sobre Mim
 Sou um profissional dedicado e apaixonado por tecnologia, com uma carreira marcada por diversas experiências que moldaram minha capacidade de enfrentar desafios e inovar. Valorizo o aprendizado contínuo e acredito no poder da colaboração e do trabalho em equipe.
